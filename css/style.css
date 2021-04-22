@@ -236,6 +236,7 @@ h2 {
   .box-main {
     flex-direction: column-reverse;
     max-width: 100%;
+    padding-top: 300px;
   }
 
   #search {
